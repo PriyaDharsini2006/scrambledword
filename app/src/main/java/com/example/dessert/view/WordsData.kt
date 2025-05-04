@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
  * Copyright (C) 2023 The Android Open Source Project
  *
@@ -13,6 +14,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+=======
+>>>>>>> origin/master
 
 package com.example.dessert.view
 
@@ -201,4 +204,8 @@ val allWords: Set<String> =
         "zoology",
         "zone",
         "zeal"
+<<<<<<< HEAD
     )
+=======
+    )
+>>>>>>> origin/master

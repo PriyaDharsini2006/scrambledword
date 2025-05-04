@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 package com.example.dessert
@@ -103,5 +104,22 @@ class GameViewModelTest {
 
     companion object {
         private const val SCORE_AFTER_FIRST_CORRECT_ANSWER = SCORE_INCREASE
+=======
+package com.example.dessert
+
+import org.junit.Test
+
+import org.junit.Assert.*
+
+/**
+ * Example local unit test, which will execute on the development machine (host).
+ *
+ * See [testing documentation](http://d.android.com/tools/testing).
+ */
+class ExampleUnitTest {
+    @Test
+    fun addition_isCorrect() {
+        assertEquals(4, 2 + 2)
+>>>>>>> origin/master
     }
 }
